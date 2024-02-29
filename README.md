@@ -1,5 +1,7 @@
+<!---
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/KstnNN)
-
+--->
+![Codewars](https://github.r2v.ch/codewars?user=KstnNN&stroke=%23BB432C)
 <!---
 - 👋 Hi, I’m @DeadEmbed
 - 👀 I’m interested in ...
